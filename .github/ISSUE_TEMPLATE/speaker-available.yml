@@ -2,7 +2,7 @@
 name: Speaker Available
 description: Use this template if you are want to be a speaker at some event.
 labels:
-  - Speaker Available
+  - 🎤 Speaker Available
 body:
   - type: input
     id: name
@@ -27,4 +27,4 @@ body:
     attributes:
       label: Links to previous talks (optional)
     validations:
-      required: false 
+      required: false

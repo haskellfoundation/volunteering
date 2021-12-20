@@ -2,7 +2,7 @@
 name: Project Opportunity
 description: Use this template if you are looking for volunteers.
 labels:
-  - Project Opportunity
+  - 🎁 Project Opportunity
 body:
   - type: input
     id: project
@@ -34,4 +34,3 @@ body:
       label: Repo Location
     validations:
       required: true
-
