@@ -1,0 +1,37 @@
+---
+name: Project Opportunity
+description: Use this template if you are looking for volunteers.
+labels:
+  - Project Opportunity
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Project
+    validations:
+      required: true
+  - type: input
+    id: maintainer
+    attributes:
+      label: Maintainer
+    validations:
+      required: true
+  - type: textarea
+    id: skills-or-function-needed
+    attributes:
+      label: Skills / Function Needed
+    validations:
+      required: true
+  - type: input
+    id: github-issue
+    attributes:
+      label: GitHub Issue
+    validations:
+      required: false
+  - type: input
+    id: repo-location
+    attributes:
+      label: Repo Location
+    validations:
+      required: true
+
