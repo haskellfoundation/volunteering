@@ -7,7 +7,7 @@ Here are the steps:
 ## Volunteers
 
 1. Open a [GitHub Issue](https://github.com/haskellfoundation/volunteering/issues)
-2. Mark it with a "Volunteer Available" label.
+2. Choose the "🖐 Volunteer Available" issue template and fill a form.
 3. Look through the [Projects list](projects.md) and add comments to any Issues for the project opportunities that look interesting.
 4. If you find a good match, close the issue with a PR that adds you in the [Volunteers list](volunteers.md).
 5. If you are unable to find a match and no longer want to be contacted, close the issue.
@@ -15,7 +15,7 @@ Here are the steps:
 ## Project Maintainers
 
 1. Open a [GitHub Issue](https://github.com/haskellfoundation/volunteering/issues)
-2. Mark it with a "Project Opportunity" label.
+2. Choose the "🎁 Project Opportunity" issue template and fill a form.
 3. Add an entry to the [Projects list](projects.md) table.
 4. Look through the [Volunteers list](volunteers.md) and comment on the Issues for interested volunteers who might be a good fit.
 5. If you find a good match, or no longer need the hep, close the issue with a PR that removes that opportunity from the list.
