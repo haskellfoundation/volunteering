@@ -1,13 +1,13 @@
 ---
 name: Volunteer Available
 description: Use this template if you are looking for a project opportunity.
-labels: 
+labels:
   - Volunteer Available
 body:
   - type: input
     id: name
     attributes:
-      label: Name
+      label: Your Name
     validations:
       required: true
   - type: textarea
