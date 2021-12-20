@@ -1,5 +1,5 @@
 ---
-name: volunteer-available
+name: Volunteer Available
 about: Use this template if you are looking for a project opportunity.
 title: 'Volunteer Available'
 labels: Volunteer Available
