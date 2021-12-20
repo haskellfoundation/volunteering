@@ -1,8 +1,8 @@
 ---
-name: Volunteer Available
+name: 🖐 Volunteer Available
 description: Use this template if you are looking for a project opportunity.
 labels:
-  - 🖐 Volunteer Available
+  - Volunteer Available
 body:
   - type: input
     id: name

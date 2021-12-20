@@ -1,8 +1,8 @@
 ---
-name: Speaker Available
+name: 🎤 Speaker Available
 description: Use this template if you are want to be a speaker at some event.
 labels:
-  - 🎤 Speaker Available
+  - Speaker Available
 body:
   - type: input
     id: name
