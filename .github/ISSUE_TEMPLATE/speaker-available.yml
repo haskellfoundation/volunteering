@@ -1,0 +1,30 @@
+---
+name: 🎤 Speaker Available
+description: Use this template if you are want to be a speaker at some event.
+labels:
+  - Speaker Available
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Your Name
+    validations:
+      required: true
+  - type: textarea
+    id: contact-info
+    attributes:
+      label: Contact Info (optional)
+    validations:
+      required: false
+  - type: textarea
+    id: areas-of-interest
+    attributes:
+      label: Areas of Interest
+    validations:
+      required: true
+  - type: textarea
+    id: previous-talks
+    attributes:
+      label: Links to previous talks (optional)
+    validations:
+      required: false
