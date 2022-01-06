@@ -1,0 +1,30 @@
+---
+name: Mentor Available
+description: Use this template if you are want to be a mentor to one or more people in the community.
+labels:
+  - Mentor Available
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Your Name
+    validations:
+      required: true
+  - type: textarea
+    id: contact-info
+    attributes:
+      label: Contact Info (optional)
+    validations:
+      required: false
+  - type: textarea
+    id: areas-of-interest
+    attributes:
+      label: Areas of Interest
+    validations:
+      required: true
+  - type: textarea
+    id: commitment
+    attributes:
+      label: Commitment (time, frequency, etc.)
+    validations:
+      required: false
